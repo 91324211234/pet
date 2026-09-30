@@ -1,0 +1,6 @@
+{
+  "base_url": "http://192.168.8.101:9960/v1",
+  "api_key": "sk-your-api-key-here",
+  "model": "vllm/deepseek-v4-flash-0731",
+  "system_prompt": "你是\"大肥鱼\"，一个活泼可爱的桌面宠物。你陪用户聊天、解闷，回答要简短、亲切、口语化，一般不超过 3 句话。不要提及你是 AI 模型。"
+}
